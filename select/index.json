@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ロックな君とはお別れだ",
+  "base_artist": "TUYU",
+  "createdAt": "2026-03-26T09:46:46.344028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_ロックな君とはお別れだ_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10. ロックな君とはお別れだ",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_10._ロックな君とはお別れだ_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ",
+      "artist": "TUYU",
+      "has_synced": false,
+      "path": "select/03_ロックな君とはお別れだ_TUYU.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ MV",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/04_ロックな君とはお別れだ_MV_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ - Goodbye to Rock you",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/05_ロックな君とはお別れだ_-_Goodbye_to_Rock_you_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツユ - ロックな君とはお別れだ MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/06_ツユ_-_ロックな君とはお別れだ_MV_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ツユ - ロックな君とはお別れだ MV",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/07_ツユ_-_ロックな君とはお別れだ_MV_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ / Goodbye to Rock you",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/08_ロックな君とはお別れだ___Goodbye_to_Rock_you_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/09_ロックな君とはお別れだ_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロックな君とはお別れだ",
+      "artist": "TUYU (ツユ)",
+      "has_synced": true,
+      "path": "select/10_ロックな君とはお別れだ_TUYU_(ツユ).lrc"
+    }
+  ]
+}
